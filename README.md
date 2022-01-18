@@ -19,9 +19,14 @@ A virual writer that trackes your hand gestures and writes text or draws what ev
 4. Displayes the marker color over your fingure
 5. The transparency of the marker is also adjusted to 100%
 
-# Working
-After running the executable file, you require to give permissions to your devices camera , which will directly start the software for you.
-You can use your index fingure to drawn anthing on the screen.
-And for the selection you require both the index as well as your middle fingure to be up.
-You can take your fingures to the header for selection for your choice of color By Default its set to Purple.
+# Usage
+ Markup : * After running the executable file, you require to give permissions to your devices camera , which will directly start the software for you.
+              * You can use your index fingure to drawn anthing on the screen.
+              * And for the selection you require both the index as well as your middle fingure to be up.
+              * You can take your fingures to the header for selection for your choice of color By Default its set to Purple.
+
+
+
+
+
 
